@@ -5,7 +5,7 @@
 
 Name:		erlang-%{realname}
 Version:	2.1.0
-Release:	%mkrel 0.11.20101022git%{git_tag}.2
+Release:	0.11.20101022git%{git_tag}.2
 Summary:	Erlang internationalization library
 Group:		Development/Erlang
 License:	MIT
