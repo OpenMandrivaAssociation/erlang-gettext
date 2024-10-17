@@ -9,7 +9,7 @@ Release:	0.11.20101022git%{git_tag}.2
 Summary:	Erlang internationalization library
 Group:		Development/Erlang
 License:	MIT
-URL:		http://github.com/etnt/gettext
+URL:		https://github.com/etnt/gettext
 # wget http://github.com/etnt/gettext/tarball/b55cb72
 Source0:	etnt-%{realname}-%{git_tag}.tar.gz
 BuildRoot:	%(mktemp -ud %{_tmppath}/%{name}-%{version}-%{release}-XXXXXX)
